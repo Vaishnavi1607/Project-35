@@ -4,11 +4,11 @@ var database;
 var updateHeight,readHeight,showError;
 
 function preload(){
-bgI = loadImage("Hot Air ballon-01.png")
-balloonI = loadAnimation("Hot Air ballon-02.png")
-b2 = loadAnimation("Hot Air ballon-02.png","Hot Air ballon-02.png",
-"Hot Air ballon-03.png","Hot Air ballon-03.png","Hot Air ballon-04.png",
-"Hot Air ballon-04.png")
+bgI = loadImage("images/Hot Air ballon-01.png")
+balloonI = loadAnimation("images/Hot Air ballon-02.png")
+b2 = loadAnimation("images/Hot Air ballon-02.png","images/Hot Air ballon-02.png",
+"images/Hot Air ballon-03.png","images/Hot Air ballon-03.png","images/Hot Air ballon-04.png",
+"images/Hot Air ballon-04.png")
 
 }
 
